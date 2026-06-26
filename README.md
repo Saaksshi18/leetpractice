@@ -22,4 +22,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Saaksshi18/leetpractice/tree/main/0141-linked-list-cycle/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/Saaksshi18/leetpractice/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 <!---LeetCode Topics End-->
