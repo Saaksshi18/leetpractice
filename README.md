@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1280-students-and-examinations](https://github.com/Saaksshi18/leetpractice/tree/main/1280-students-and-examinations/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Saaksshi18/leetpractice/tree/main/1661-average-time-of-process-per-machine/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Saaksshi18/leetpractice/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
