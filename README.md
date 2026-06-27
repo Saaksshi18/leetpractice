@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1280-students-and-examinations](https://github.com/Saaksshi18/leetpractice/tree/main/1280-students-and-examinations/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Saaksshi18/leetpractice/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
