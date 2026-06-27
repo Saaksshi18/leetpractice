@@ -7,27 +7,39 @@
  *     ListNode(int val) { this.val = val; }
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
- */
-class Solution {
+ */class Solution {
     public boolean isPalindrome(ListNode head) {
-        Stack<Integer> stack = new Stack<>();
+        if (head == null || head.next == null)
+            return true;
 
-        ListNode temp = head;
+        // Find the middle
+        ListNode slow = head;
+        ListNode fast = head;
 
-        // Push all values into the stack
-        while (temp != null) {
-            stack.push(temp.val);
-            temp = temp.next;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        // Compare while traversing again
-        temp = head;
+        // Reverse the second half
+        ListNode prev = null;
+        while (slow != null) {
+            ListNode next = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = next;
+        }
 
-        while (temp != null) {
-            if (temp.val != stack.pop()) {
+        // Compare both halves
+        ListNode first = head;
+        ListNode second = prev;
+
+        while (second != null) {
+            if (first.val != second.val)
                 return false;
-            }
-            temp = temp.next;
+
+            first = first.next;
+            second = second.next;
         }
 
         return true;
