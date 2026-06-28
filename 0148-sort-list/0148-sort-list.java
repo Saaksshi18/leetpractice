@@ -12,26 +12,65 @@
  * }
  */
 class Solution {
+
+    // Merge two sorted linked lists
+    public ListNode mergeTwoSortedLists(ListNode list1, ListNode list2) {
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
+
+        while (list1 != null && list2 != null) {
+            if (list1.val <= list2.val) {
+                temp.next = list1;
+                list1 = list1.next;
+            } else {
+                temp.next = list2;
+                list2 = list2.next;
+            }
+            temp = temp.next;
+        }
+
+        if (list1 != null) {
+            temp.next = list1;
+        } else {
+            temp.next = list2;
+        }
+
+        return dummy.next;
+    }
+
+    // Find the middle node
+    public ListNode findMiddle(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head.next;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        return slow;
+    }
+
+    // Merge Sort
     public ListNode sortList(ListNode head) {
-        ArrayList<Integer> arr = new ArrayList<>();
-
-        ListNode temp = head;
-
-        while (temp != null) {
-            arr.add(temp.val);
-            temp = temp.next;
+        // Base case
+        if (head == null || head.next == null) {
+            return head;
         }
 
-        Collections.sort(arr);
+        // Find middle
+        ListNode middle = findMiddle(head);
 
-        temp = head;
-        int i = 0;
+        // Split into two halves
+        ListNode right = middle.next;
+        middle.next = null;
+        ListNode left = head;
 
-        while (temp != null) {
-            temp.val = arr.get(i++);
-            temp = temp.next;
-        }
+        // Sort both halves
+        left = sortList(left);
+        right = sortList(right);
 
-        return head;
+        // Merge sorted halves
+        return mergeTwoSortedLists(left, right);
     }
 }
