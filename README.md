@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Saaksshi18/leetpractice/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Saaksshi18/leetpractice/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Saaksshi18/leetpractice/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Saaksshi18/leetpractice/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Saaksshi18/leetpractice/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
