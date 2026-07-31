@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saaksshi18/leetpractice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Saaksshi18/leetpractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Saaksshi18/leetpractice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saaksshi18/leetpractice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saaksshi18/leetpractice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Saaksshi18/leetpractice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saaksshi18/leetpractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Math
@@ -103,5 +105,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saaksshi18/leetpractice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Saaksshi18/leetpractice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
