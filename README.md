@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saaksshi18/leetpractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saaksshi18/leetpractice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Saaksshi18/leetpractice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Saaksshi18/leetpractice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saaksshi18/leetpractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saaksshi18/leetpractice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saaksshi18/leetpractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saaksshi18/leetpractice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
