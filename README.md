@@ -91,11 +91,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saaksshi18/leetpractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saaksshi18/leetpractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saaksshi18/leetpractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saaksshi18/leetpractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Saaksshi18/leetpractice/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +149,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
