@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Saaksshi18/leetpractice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1563-stone-game-v](https://github.com/Saaksshi18/leetpractice/tree/main/1563-stone-game-v/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saaksshi18/leetpractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saaksshi18/leetpractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
@@ -115,11 +116,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Saaksshi18/leetpractice/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1563-stone-game-v](https://github.com/Saaksshi18/leetpractice/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Saaksshi18/leetpractice/tree/main/0509-fibonacci-number/) | Easy |
+| [1563-stone-game-v](https://github.com/Saaksshi18/leetpractice/tree/main/1563-stone-game-v/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1563-stone-game-v](https://github.com/Saaksshi18/leetpractice/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
