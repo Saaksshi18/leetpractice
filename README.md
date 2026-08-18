@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saaksshi18/leetpractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saaksshi18/leetpractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saaksshi18/leetpractice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Saaksshi18/leetpractice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saaksshi18/leetpractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saaksshi18/leetpractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Saaksshi18/leetpractice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
