@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Saaksshi18/leetpractice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Saaksshi18/leetpractice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Saaksshi18/leetpractice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saaksshi18/leetpractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saaksshi18/leetpractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Saaksshi18/leetpractice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Saaksshi18/leetpractice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Saaksshi18/leetpractice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1563-stone-game-v](https://github.com/Saaksshi18/leetpractice/tree/main/1563-stone-game-v/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saaksshi18/leetpractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Saaksshi18/leetpractice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Saaksshi18/leetpractice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Saaksshi18/leetpractice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Saaksshi18/leetpractice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saaksshi18/leetpractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Saaksshi18/leetpractice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
