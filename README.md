@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Saaksshi18/leetpractice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Saaksshi18/leetpractice/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saaksshi18/leetpractice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/Saaksshi18/leetpractice/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Saaksshi18/leetpractice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Saaksshi18/leetpractice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saaksshi18/leetpractice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Saaksshi18/leetpractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saaksshi18/leetpractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0189-rotate-array](https://github.com/Saaksshi18/leetpractice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Saaksshi18/leetpractice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Saaksshi18/leetpractice/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Saaksshi18/leetpractice/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Saaksshi18/leetpractice/tree/main/0050-powx-n/) | Medium |
+| [0189-rotate-array](https://github.com/Saaksshi18/leetpractice/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Saaksshi18/leetpractice/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
