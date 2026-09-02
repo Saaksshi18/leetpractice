@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Saaksshi18/leetpractice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Saaksshi18/leetpractice/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Saaksshi18/leetpractice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/Saaksshi18/leetpractice/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Saaksshi18/leetpractice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saaksshi18/leetpractice/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Saaksshi18/leetpractice/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Saaksshi18/leetpractice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/Saaksshi18/leetpractice/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Saaksshi18/leetpractice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Saaksshi18/leetpractice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
