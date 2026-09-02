@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Saaksshi18/leetpractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Saaksshi18/leetpractice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saaksshi18/leetpractice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Saaksshi18/leetpractice/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Saaksshi18/leetpractice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Saaksshi18/leetpractice/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -81,11 +82,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Saaksshi18/leetpractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Saaksshi18/leetpractice/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Saaksshi18/leetpractice/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Saaksshi18/leetpractice/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Saaksshi18/leetpractice/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saaksshi18/leetpractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 ## Merge Sort
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Saaksshi18/leetpractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saaksshi18/leetpractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/Saaksshi18/leetpractice/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Saaksshi18/leetpractice/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Saaksshi18/leetpractice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
@@ -188,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Saaksshi18/leetpractice/tree/main/0169-majority-element/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/Saaksshi18/leetpractice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 ## Game Theory
@@ -222,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Saaksshi18/leetpractice/tree/main/0020-valid-parentheses/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Saaksshi18/leetpractice/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
