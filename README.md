@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Saaksshi18/leetpractice/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saaksshi18/leetpractice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/0031-next-permutation/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Saaksshi18/leetpractice/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Saaksshi18/leetpractice/tree/main/0042-trapping-rain-water/) | Hard |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Saaksshi18/leetpractice/tree/main/0011-container-with-most-water/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saaksshi18/leetpractice/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 ## String
