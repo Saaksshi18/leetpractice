@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saaksshi18/leetpractice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Saaksshi18/leetpractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Saaksshi18/leetpractice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Saaksshi18/leetpractice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Saaksshi18/leetpractice/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Saaksshi18/leetpractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/Saaksshi18/leetpractice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Saaksshi18/leetpractice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Saaksshi18/leetpractice/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Saaksshi18/leetpractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Saaksshi18/leetpractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Saaksshi18/leetpractice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Saaksshi18/leetpractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Saaksshi18/leetpractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saaksshi18/leetpractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Saaksshi18/leetpractice/tree/main/0509-fibonacci-number/) | Easy |
@@ -251,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Saaksshi18/leetpractice/tree/main/0075-sort-colors/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Saaksshi18/leetpractice/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
