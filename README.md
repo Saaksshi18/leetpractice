@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saaksshi18/leetpractice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/Saaksshi18/leetpractice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Saaksshi18/leetpractice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Saaksshi18/leetpractice/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Saaksshi18/leetpractice/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Saaksshi18/leetpractice/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/Saaksshi18/leetpractice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Saaksshi18/leetpractice/tree/main/0148-sort-list/) | Medium |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Saaksshi18/leetpractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Saaksshi18/leetpractice/tree/main/0045-jump-game-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/Saaksshi18/leetpractice/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Saaksshi18/leetpractice/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Saaksshi18/leetpractice/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0088-merge-sorted-array/) | Easy |
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Saaksshi18/leetpractice/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/Saaksshi18/leetpractice/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saaksshi18/leetpractice/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/Saaksshi18/leetpractice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Saaksshi18/leetpractice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/Saaksshi18/leetpractice/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Saaksshi18/leetpractice/tree/main/0242-valid-anagram/) | Easy |
