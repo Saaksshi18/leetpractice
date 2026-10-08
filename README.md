@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Saaksshi18/leetpractice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saaksshi18/leetpractice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saaksshi18/leetpractice/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/Saaksshi18/leetpractice/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/Saaksshi18/leetpractice/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Saaksshi18/leetpractice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Saaksshi18/leetpractice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Saaksshi18/leetpractice/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saaksshi18/leetpractice/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/0031-next-permutation/) | Medium |
+| [0036-valid-sudoku](https://github.com/Saaksshi18/leetpractice/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Saaksshi18/leetpractice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Saaksshi18/leetpractice/tree/main/0045-jump-game-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Saaksshi18/leetpractice/tree/main/0049-group-anagrams/) | Medium |
@@ -309,4 +311,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Saaksshi18/leetpractice/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Saaksshi18/leetpractice/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
