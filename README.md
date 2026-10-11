@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saaksshi18/leetpractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saaksshi18/leetpractice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saaksshi18/leetpractice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saaksshi18/leetpractice/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saaksshi18/leetpractice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saaksshi18/leetpractice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -327,4 +328,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Saaksshi18/leetpractice/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Saaksshi18/leetpractice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
