@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Saaksshi18/leetpractice/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saaksshi18/leetpractice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Saaksshi18/leetpractice/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Saaksshi18/leetpractice/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Saaksshi18/leetpractice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Saaksshi18/leetpractice/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Saaksshi18/leetpractice/tree/main/0344-reverse-string/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Saaksshi18/leetpractice/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saaksshi18/leetpractice/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Saaksshi18/leetpractice/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Saaksshi18/leetpractice/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/Saaksshi18/leetpractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Saaksshi18/leetpractice/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Saaksshi18/leetpractice/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Saaksshi18/leetpractice/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Saaksshi18/leetpractice/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Saaksshi18/leetpractice/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Saaksshi18/leetpractice/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saaksshi18/leetpractice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -332,4 +335,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Saaksshi18/leetpractice/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Saaksshi18/leetpractice/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
