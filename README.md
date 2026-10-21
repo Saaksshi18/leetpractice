@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Saaksshi18/leetpractice/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saaksshi18/leetpractice/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saaksshi18/leetpractice/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Saaksshi18/leetpractice/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
