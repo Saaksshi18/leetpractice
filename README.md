@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saaksshi18/leetpractice/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Saaksshi18/leetpractice/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Saaksshi18/leetpractice/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
