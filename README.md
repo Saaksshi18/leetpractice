@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Saaksshi18/leetpractice/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Saaksshi18/leetpractice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Saaksshi18/leetpractice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saaksshi18/leetpractice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Saaksshi18/leetpractice/tree/main/0509-fibonacci-number/) | Easy |
 | [1563-stone-game-v](https://github.com/Saaksshi18/leetpractice/tree/main/1563-stone-game-v/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Saaksshi18/leetpractice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Saaksshi18/leetpractice/tree/main/0268-missing-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Saaksshi18/leetpractice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -345,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Saaksshi18/leetpractice/tree/main/0036-valid-sudoku/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Saaksshi18/leetpractice/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Saaksshi18/leetpractice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Saaksshi18/leetpractice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
