@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Saaksshi18/leetpractice/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Saaksshi18/leetpractice/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saaksshi18/leetpractice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Saaksshi18/leetpractice/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Saaksshi18/leetpractice/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Greedy
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1563-stone-game-v](https://github.com/Saaksshi18/leetpractice/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Saaksshi18/leetpractice/tree/main/2029-stone-game-ix/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Saaksshi18/leetpractice/tree/main/2409-count-days-spent-together/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Saaksshi18/leetpractice/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
